@@ -1,2 +1,1 @@
-# Notionable-Kindle
-Import Kindle Highlights to Notion
+This script allows you to sync all your Kindle highlights from "My Clippings.txt" and store them as separate sub-pages in your Notion within the same workspace. The clippings are grouped based on the book and the date at which it was highlighted. This script is built using the Notion Un-Official API by Jamie Alexandre (URL: https://pypi.org/project/notion/)
